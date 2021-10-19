@@ -1,0 +1,30 @@
+*{
+    background-color: #ECF0F1 ;
+}
+.containeer{
+    margin-left: 1rem;
+}
+
+.main_containeer{
+    width: 750px;
+}
+
+.main_containeer p{
+    font-size: 20px;
+    color: #2C3E50;
+}
+
+.main_containeer sup{
+    color: blue;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.number_containeer{
+    font-size: 13px;
+}
+
+#line{
+    width: 800px;
+    float: left;
+}
