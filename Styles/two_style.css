@@ -1,0 +1,34 @@
+.containeer h1{
+    text-align: center;
+    font-family: serif;
+}
+
+.containeer h2{
+    text-align: center;
+    font-size: 25px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.containeer h4{
+    text-align: center;
+    font-size: 15px;   
+    margin-left: 14.5rem; 
+    font-weight: lighter;
+}
+
+.containeer span{
+    font-weight: bold;
+    font-size: large;
+    font-family: serif;
+}
+
+.containeer{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.containeer p{
+    font-family: serif;
+    -webkit-mask-image: linear-gradient(to right bottom, white 1em, transparent 85%); /* нагуглив, ага! */
+}
